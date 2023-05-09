@@ -3,8 +3,8 @@
 ---
 
 ### Data Science and Analytics Projects
-
-[walmart-m5-challenge]([Walmart M5.pdf](https://github.com/additanwar/additanwar.github.io/files/11428339/Walmart.M5.pdf)
+[walmart-m5-challenge](https://github.com/additanwar/walmart-m5-challenge/blob/main/README.md)
+![Walmart M5](https://user-images.githubusercontent.com/85642859/237031917-1129111c-e5a0-4231-9886-0341bb39d109.png)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
