@@ -6,7 +6,6 @@
 ---
 ### [AWS Fraud Detector](https://github.com/additanwar/AWS_Fraud_Detector/blob/main/README.md)
 ![Fraud-Detection-Software-blog](https://user-images.githubusercontent.com/85642859/237040030-3cfd5ddc-0d4b-4f2d-ae04-d7238fa1947c.gif)
-
 ---
 ### [XYZ Airline Exploratory Analysis](https://github.com/additanwar/Airline_Customer_segmentation)
 <img width="1025" alt="image" src="https://user-images.githubusercontent.com/85642859/237043106-ab097a02-ad60-4ada-a81c-1da820b0a02c.png">
