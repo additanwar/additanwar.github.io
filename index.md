@@ -12,6 +12,10 @@
 ---
 ### [Real Time Sentiment Analysis of Tweets on Stock Prices](https://github.com/additanwar/Stock_Price_pred_using_Twitter_sentiment)
 <img width="432" alt="image" src="https://github.com/additanwar/additanwar.github.io/assets/85642859/13d81b4a-e851-4220-9822-74f23780e2db">
+---
+### [Diagnostic-Breast-Cancer-Data-Analysis](https://github.com/additanwar/Breast-Cancer-WDBC-Data-Analysis/tree/main)
+<img width="1025" alt="image" src="https://user-images.githubusercontent.com/85642859/239370601-dba2578f-8bc7-4ae2-a92a-cb773f6d296a.png">
+
 
 
 
